@@ -1,6 +1,6 @@
 name = "MidnightLib"
 filename = "midnightlib-forge-1.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar"
