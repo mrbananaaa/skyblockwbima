@@ -44,3 +44,8 @@ metafile = true
 file = "mods/rubidium-extra.pw.toml"
 hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "9d1736d4c11635a578721345bba0c529404a0a0147ceca7878bd5525657d6040"
+metafile = true
