@@ -1,0 +1,13 @@
+name = "Skyblock With Lil Bro"
+author = "potato"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b94017886912d02990e5b751fd4f778f59ff4232acc3c35ea28b372909653a00"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"
